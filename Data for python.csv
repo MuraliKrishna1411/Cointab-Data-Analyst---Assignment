@@ -1,0 +1,125 @@
+Order ID,x_kg,y_kg,x_zone,y_zone,ship
+2001806232,0.5,1.5,d,d,Forward charges
+2001806273,1,1,d,d,Forward charges
+2001806408,1,2.5,d,d,Forward charges
+2001806458,1,1,b,b,Forward charges
+2001807012,0.5,0.5,d,d,Forward charges
+2001806686,0.5,0.5,d,d,Forward charges
+2001806885,0.5,1,b,b,Forward charges
+2001807058,1.5,1.5,b,b,Forward charges
+2001807186,0.5,0.5,d,d,Forward charges
+2001807290,0.5,0.5,d,d,Forward charges
+2001807814,1,1,b,b,Forward charges
+2001807931,1,1,d,d,Forward charges
+2001807956,1,1.5,b,b,Forward charges
+2001807960,1,1,d,d,Forward charges
+2001807930,0.5,0.5,d,d,Forward charges
+2001808102,1,1.5,d,d,Forward charges
+2001808118,0.5,0.5,b,b,Forward charges
+2001808207,1,1,d,d,Forward charges
+2001808295,0.5,0.5,e,e,Forward and RTO charges
+2001808507,1,1,b,b,Forward charges
+2001808542,0.5,1,d,d,Forward charges
+2001808675,1.5,1.5,b,b,Forward charges
+2001807976,1,1,d,d,Forward and RTO charges
+2001812838,0.5,1,b,b,Forward and RTO charges
+2001816684,0.5,1,d,d,Forward and RTO charges
+2001817160,1,1,d,d,Forward and RTO charges
+2001818390,0.5,1,e,e,Forward and RTO charges
+2001821190,1.5,1.5,d,d,Forward and RTO charges
+2001817093,1.5,1.5,b,b,Forward and RTO charges
+2001823564,0.5,1,d,d,Forward and RTO charges
+2001825261,1,2,d,d,Forward and RTO charges
+2001811192,1,1.5,d,d,Forward and RTO charges
+2001809917,1,1,d,d,Forward and RTO charges
+2001806210,0.5,3,b,b,Forward charges
+2001806226,0.5,1,d,d,Forward charges
+2001806229,0.5,1,d,d,Forward charges
+2001806233,0.5,1,b,b,Forward charges
+2001806251,0.5,1.5,d,d,Forward charges
+2001806338,0.5,1,d,d,Forward charges
+2001806446,0.5,1,d,d,Forward charges
+2001806533,0.5,1,d,d,Forward charges
+2001806547,0.5,1,b,b,Forward charges
+2001806567,1,1.5,d,d,Forward charges
+2001806575,0.5,1,b,b,Forward charges
+2001806616,1,1.5,b,b,Forward charges
+2001806652,0.5,1,d,d,Forward charges
+2001806733,1,1.5,d,d,Forward charges
+2001806735,0.5,1,d,d,Forward charges
+2001806726,0.5,1,d,d,Forward charges
+2001806776,0.5,3,b,b,Forward charges
+2001806801,0.5,1.5,b,b,Forward charges
+2001807004,0.5,1,d,d,Forward charges
+2001807036,0.5,2,d,d,Forward charges
+2001807084,0.5,1,d,d,Forward charges
+2001807362,1,2,d,d,Forward charges
+2001807415,0.5,1,b,b,Forward charges
+2001809592,1,1.5,b,b,Forward charges
+2001809794,2,1.5,d,d,Forward charges
+2001809820,3,3,d,d,Forward charges
+2001806471,1.5,2,b,d,Forward charges
+2001807241,1,1,b,d,Forward charges
+2001807981,0.5,0.5,b,d,Forward charges
+2001808286,1,1,b,d,Forward charges
+2001808801,1,1,b,d,Forward charges
+2001810104,1,1,b,d,Forward charges
+2001811153,1,1,b,d,Forward charges
+2001811229,1,1,b,d,Forward charges
+2001811363,1,1,b,d,Forward charges
+2001811466,1,1,b,d,Forward charges
+2001811809,0.5,0.5,b,d,Forward and RTO charges
+2001812854,2.5,3,b,d,Forward charges
+2001813009,1,1,b,d,Forward charges
+2001812650,0.5,1,b,d,Forward charges
+2001814580,0.5,0.5,b,d,Forward and RTO charges
+2001815688,0.5,0.5,b,d,Forward charges
+2001816131,0.5,1,b,d,Forward charges
+2001816996,0.5,0.5,b,d,Forward charges
+2001821185,2,2.5,b,d,Forward charges
+2001821284,0.5,0.5,b,d,Forward charges
+2001821679,0.5,0.5,b,d,Forward charges
+2001821742,0.5,0.5,b,d,Forward charges
+2001821750,1,1,b,d,Forward charges
+2001821766,0.5,0.5,b,d,Forward charges
+2001821995,0.5,0.5,b,d,Forward charges
+2001821502,0.5,1,b,d,Forward charges
+2001822466,0.5,1.5,b,d,Forward charges
+2001820690,0.5,0.5,b,d,Forward charges
+2001811604,0.5,1,e,b,Forward charges
+2001819252,0.5,0.5,e,b,Forward charges
+2001827036,2,2,e,b,Forward charges
+2001806304,0.5,1,b,d,Forward charges
+2001806768,0.5,1.5,b,d,Forward charges
+2001806823,0.5,1,b,d,Forward charges
+2001806828,0.5,1,b,d,Forward charges
+2001806968,0.5,1,b,d,Forward charges
+2001807328,0.5,2.5,b,d,Forward charges
+2001807785,0.5,1,b,d,Forward charges
+2001807852,0.5,1,b,d,Forward charges
+2001807970,1,4.5,b,d,Forward charges
+2001807329,0.5,1,b,d,Forward charges
+2001807613,1,1.5,b,d,Forward charges
+2001808475,0.5,1,b,d,Forward charges
+2001808585,0.5,1,e,b,Forward charges
+2001808679,0.5,1,b,d,Forward charges
+2001808739,0.5,2,b,d,Forward charges
+2001808832,1,2.5,b,d,Forward charges
+2001808837,0.5,1,b,d,Forward charges
+2001808883,0.5,1,b,d,Forward charges
+2001808992,0.5,1,b,d,Forward charges
+2001809270,0.5,1,b,d,Forward charges
+2001809934,0.5,1,b,d,Forward charges
+2001810125,0.5,1,b,d,Forward charges
+2001810281,0.5,1,b,d,Forward charges
+2001810549,1,2,b,d,Forward charges
+2001810697,1,2.5,b,d,Forward charges
+2001811039,0.5,1,b,d,Forward charges
+2001811058,0.5,1,b,d,Forward charges
+2001811306,1,1.5,b,d,Forward charges
+2001812195,0.5,1,b,d,Forward charges
+2001812941,0.5,1,b,d,Forward charges
+2001809383,1,0.5,b,d,Forward and RTO charges
+2001820978,1,0.5,b,d,Forward charges
+2001811475,1,0.5,e,b,Forward charges
+2001811305,1,0.5,b,d,Forward charges
